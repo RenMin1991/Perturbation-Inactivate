@@ -7,7 +7,7 @@ We propose a plug-and-play adversarial defense method, named perturbation inacti
 
 ## The proposed framework
 
-![arch](main_idea_7.png)
+![arch](tifs_pipeline.png)
 
 # Usage Instructions
 
