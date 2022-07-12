@@ -21,6 +21,8 @@ torchvision == 0.3.0
 
 ## Training
 
+![arch](framework_train.png)
+
 `config_train.py`to set the configurations of training.
 
 `train.py` to begin training.
