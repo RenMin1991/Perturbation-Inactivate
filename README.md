@@ -37,7 +37,7 @@ Pretrained model can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/
 # Citation
 If you find **PIN** useful in your research, please consider to cite:
 
-@ARTICLE{9845464,
+  @ARTICLE{9845464,
   author={Ren, Min and Zhu, Yuhao and Wang, Yunlong and Sun, Zhenan},
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={Perturbation Inactivation Based Adversarial Defense for Face Recognition}, 
